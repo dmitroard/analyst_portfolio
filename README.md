@@ -7,5 +7,5 @@
 
 Пройденные курсы:
 
-1. [https://sql-ex.ru/](sql-ex)
+1. (https://sql-ex.ru/)[sql-ex]
 2. 
