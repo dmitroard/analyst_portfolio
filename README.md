@@ -7,5 +7,7 @@
 
 Пройденные курсы:
 
-1. (https://sql-ex.ru/)[sql-ex]
-2. 
+1. [sql-ex](https://sql-ex.ru/)
+2. [SQL Academy](https://sql-academy.org/)
+3. [Основы статистики](https://stepik.org/course/76/syllabus)
+4. 
