@@ -6,7 +6,6 @@
 Аккаунт на гите был создан недавно, так что со временем я загружу все проекты, что успел выполнить, а также конечно же новые.
 
 Пройденные курсы:
-  Полученные навыки.
 1. [sql-ex](https://sql-ex.ru/)
 2. [SQL Academy](https://sql-academy.org/)
 3. [Основы статистики](https://stepik.org/course/76/syllabus)
@@ -18,6 +17,10 @@
 9. [Теория вероятностей](https://stepik.org/course/3089/syllabus)
 10. [Введение в базы данных](https://stepik.org/course/551/)
 11. [Яндекс.Практикум. Аналитик данных](https://practicum.yandex.ru/data-analyst/)
+
+Полученные навыки:
+1. 
+
 
 Контакты для связи: 
 raykov.dima@yandex.ru
