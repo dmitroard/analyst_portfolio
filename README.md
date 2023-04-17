@@ -17,7 +17,7 @@
 8. [Основы статистики часть 2](https://stepik.org/course/524/syllabus)
 9. [Теория вероятностей](https://stepik.org/course/3089/syllabus)
 10. [Введение в базы данных](https://stepik.org/course/551/)
-11. [Яндекс.Практикум. Аналитик данных](https://practicum.yandex.ru/data-analyst/)
+11. [Яндекс.Практикум. Аналитик данных](https://practicum.yandex.ru/data-analyst/) В процессе
 
 Полученные навыки:
 1. Написание SQL запросов: групировка, подзапросы, функции, джоины и тд.
